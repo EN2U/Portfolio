@@ -1,0 +1,3 @@
+[submodule "Portfolio-Frontend"]
+	path = Portfolio-Frontend
+	url = git@github.com-EN2U:EN2U/Portfolio-Frontend.git
